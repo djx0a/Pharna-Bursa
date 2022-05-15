@@ -1,0 +1,15 @@
+.main-cart{
+    position: absolute;
+    width: 817px;
+    height: 577px;
+    background: lightgoldenrodyellow;
+}
+
+.Summary{
+    position: absolute;
+    width: 393px;
+    height: 366px;
+    left: 947px;
+    top: 235px;
+    background: #EBF8FF;
+}

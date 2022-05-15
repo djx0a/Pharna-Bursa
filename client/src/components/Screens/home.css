@@ -1,0 +1,28 @@
+.headerlinkmenu {
+	line-height: normal;
+	display: inline-block;
+	text-align: right;
+	float: right
+}
+.headerlinkmenu .links {
+	display: inline-block
+}
+.headerlinkmenu .links div {
+	display: inline-block;
+	text-align: right
+}
+.headerlinkmenu div.links div a {
+	display: inline-block;
+	padding: 0px;
+	padding: 10px 10px 5px 8px;
+	text-decoration: none;
+	letter-spacing: 0.5px;
+	color: #ccc;
+}
+.headerlinkmenu div.links div a span {
+	margin-left: 8px
+}
+.headerlinkmenu div.links div a:hover {
+	color: #4caf50;
+	text-decoration: none
+}

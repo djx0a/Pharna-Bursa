@@ -1,0 +1,17 @@
+.medDetail{
+width: 1194px;
+height: 320px;
+margin: auto;
+padding: 30px;
+text-align: justify;
+
+/* wf-Paragrapgh */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+}
